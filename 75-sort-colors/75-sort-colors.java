@@ -16,7 +16,6 @@ class Solution {
          for(int j=count0;j<count1+count0;j++)
             nums[j]=1;
          for(int k=count1+count0;k<count2+count1+count0;k++)
-            nums[k]=2;
-        
+            nums[k]=2;  
     }
 }
